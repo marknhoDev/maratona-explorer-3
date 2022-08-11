@@ -82,3 +82,9 @@ li .details{
   line-height: 21px;
 
 }
+div img{
+margin: auto;
+display: block;
+width: 10%;
+
+}
